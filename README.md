@@ -19,7 +19,7 @@ To use this module, you first need to install it using npm. You can then require
 You can install versionchecker using NPM
 
 ```
-npm install @developerso/versionchecker
+npm i @developerso/versionchecker
 ```
 
 # Usage
